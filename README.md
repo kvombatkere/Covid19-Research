@@ -9,6 +9,9 @@
 This repository contains the python notebooks and code used for the analysis in this paper.
 
 
+##### WIP: Updated analysis with data from Fall 2020
+
+
 #### References
 1. Blagov, P. S. 2020. Adaptive and Dark Personality Traits in the Covid-19 Pandemic: Predicting Health-behavior Endorsement and the Appeal of Public-health Messages. PsyArXiv Preprints 10.
 2. Chinazzi, M.; Davis, J. T.; Ajelli, M.; Gioannini, C.; Litvinova, M.; Merler, S.; y Piontti, A. P.; Mu, K.; Rossi, L.; Sun, K.; et al. 2020. The effect of travel restrictions on the spread of the 2019 novel coronavirus (COVID-19) outbreak. Science 368(6489): 395–400.
