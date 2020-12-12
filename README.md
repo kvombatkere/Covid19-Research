@@ -1,5 +1,5 @@
 ### Covid19-Research
-#### Data mining project to research the spread of COVID-19 along political lines in US States using transportation patterns and weather data:
+#### Data mining research on the spread of COVID-19 along political lines in US States using transportation patterns and weather data:
 
 1. Cluster and analyze population mobility features across politically Red and Blue states (as per the 2016 presidential election) in the United States 
 2. Examine weather patterns and compute correlations across US states.
